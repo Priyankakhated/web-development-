@@ -1,9 +1,7 @@
 # web_development_Internship Task
-![Screenshot (63)](https://user-images.githubusercontent.com/86684610/123861653-0ed8eb80-d945-11eb-9fe3-a0dc34ba8e29.png)
-![Screenshot (64)](https://user-images.githubusercontent.com/86684610/123861805-39c33f80-d945-11eb-975f-df3073b249e9.png)
-![Screenshot (65)](https://user-images.githubusercontent.com/86684610/123861838-434ca780-d945-11eb-9e6f-8d37a5f83c38.png)
-![Screenshot (66)](https://user-images.githubusercontent.com/86684610/123861866-4a73b580-d945-11eb-954b-372cd9f8989b.png)
-![Screenshot (67)](https://user-images.githubusercontent.com/86684610/123861908-52cbf080-d945-11eb-85ef-f4efc4997ccc.png)
-![Screenshot (68)](https://user-images.githubusercontent.com/86684610/123861929-5a8b9500-d945-11eb-95b9-9339f369b3e2.png)
-
-
+![Screenshot (63)](https://user-images.githubusercontent.com/86684610/123865074-19957f80-d949-11eb-8150-913437d10900.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/86684610/123865098-2023f700-d949-11eb-9544-205b19803e69.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/86684610/123865119-287c3200-d949-11eb-99d1-69d0c8883da2.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/86684610/123865135-2e721300-d949-11eb-99c1-e357e22c358e.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/86684610/123865155-35008a80-d949-11eb-975a-41aa709771f0.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/86684610/123865182-3b8f0200-d949-11eb-90eb-d2a2ca72ee77.png)
