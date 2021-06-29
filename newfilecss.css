@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(252, 252, 252);;
+}
+.pottipari{
+    float: right;
+    margin-left: 50%;
+}
+.princess2{
+    background-color:crimson;
+    width: 100%;
+    height: auto;
+}
+.icon-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    color: #333333;
+    background: none;
+    border: none;
+    outline: none;
+    border-radius: 60%;
+  }
+  
+  .icon-button:hover {
+    cursor: pointer;
+  }
+  
+  .icon-button:active {
+    background: #cccccc;
+  }
+  
+  .icon-button__badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    background: red;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+  .navbar{
+      height: 100px;
+  }
+  .navbar-brand{
+      margin-left:0;
+  }
+
+  .princess2{
+      padding: 10%;
+      margin-top: 2%;
+      padding-top: 5%;
+      padding-bottom: 2%;
+  }
+  .princessform{
+      width: 60%;
+      margin-left: 20%;
+  }
+  .don1{
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid grey;
+  }
+  .pari1{
+      margin-top: 5%;
+      width: 100%;
+  }
+  .paributton{
+      width: 40%;
+      margin-left: 25%;
+      background-color: white;
+      color: black;
+      height: 80px;
+      border: none;
+  }
+  .card{
+    background-image: url(image1/jack-finnigan-gGStaIejsq4-unsplash.jpg);
+    width: 100%;
+    height: 60vh;
+}
+.card-title{
+    margin-top: 15%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.card-title2 {
+    text-align: center;
+    color: white;
+    font-weight:normal;
+    font-size: 15px;
+}
+.card-text{
+    color:white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 18px;
+}
+.acbtn{
+    margin-top: 10%;
+    margin-left: 25%;
+    text-align: center;
+    border-radius:2px;
+    width: 50%;
+    color: none;
+    background-color: transparent;
+    border:1px solid white;
+
+}
+.card123{
+    background-color: white;
+    height: auto;
+}
+.logo-img{
+    margin-top: -50px;
+}
+.card-text1{
+    margin-top: -90px;
+    color: grey;
+    text-align: center;
+    font-weight:normal;
+}
+.bar4545{
+    width: 50%;
+}
+.input-group{
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+}
+ul{
+    float: center;
+    list-style: none;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color:black;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+    font-weight:lighter;
+}
+
+.card-footer{
+    font-size: 10px;
+}
+/* input[type=text]{
+    float:left;
+    display: block;
+    text-align: left;
+    margin: 10%;
+    padding: 14px;
+    border: 1px solid grey;
+} */
+#inputGroupSelect01{
+    display: flex;
+    align-items: left;
+    transform: translatex(-165px);
+}
