@@ -1,4 +1,4 @@
-# web-development
+# web_development_Internship Task
 ![Screenshot (55)](https://user-images.githubusercontent.com/86684610/123861653-0ed8eb80-d945-11eb-9fe3-a0dc34ba8e29.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/86684610/123861805-39c33f80-d945-11eb-975f-df3073b249e9.png)
 ![Screenshot (57)](https://user-images.githubusercontent.com/86684610/123861838-434ca780-d945-11eb-9e6f-8d37a5f83c38.png)
